@@ -61,13 +61,3 @@ USE CASES
 - AI-powered battery control demonstrations
 - Educational tool for optimization and ML in energy
 
-FILES INCLUDED
---------------
-- dataset_generator.py       : Creates the synthetic dataset
-- optimize.py                : Runs LP and MPC optimizations
-- ml_model.py                : Trains and evaluates the Random Forest model
-- dashboard_app.py           : Main Dash app for UI and visualization
-- battery_data.csv           : Synthetic dataset
-- perfect_results.csv        : LP optimization output
-- mpc_results.csv            : MPC-based control log
-
