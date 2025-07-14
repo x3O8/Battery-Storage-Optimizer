@@ -71,7 +71,7 @@ Constraints include:
 ## 💡 App Screenshots
 
 ### 🔹 1. Startup Interface (Before File Upload)
-![Startup](1.png)
+![Startup](screenshots/1.png)
 
 ---
 
@@ -81,7 +81,7 @@ Constraints include:
 - Battery SoC over Time
 - Action plot (Charge/Discharge/Idle)
 
-![Analytics](2.png)
+![Analytics](screenshots/2.png)
 
 ---
 
@@ -90,7 +90,7 @@ Constraints include:
 - See if battery is charging
 - Compare ML prediction vs optimal behavior
 
-![Parameter Selection](3.png)
+![Parameter Selection](screenshots/3.png)
 
 ---
 
